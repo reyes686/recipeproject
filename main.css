@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(108, 106, 106);
+    color: rgb(255, 254, 255);
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+     font-family: Helvetica, Arial, sans-serif;
+     text-align: center;
+     color: rgb(255, 254, 255);
+}
+
+#fakewebsitename {
+    color: rgb(176, 248, 59);
+}
+
+#getstarted {
+    color: rgb(239, 171, 239);
+    font-size: 23px;
+    font-family: Helvetica, Arial, sans-serif;
+    letter-spacing: -1px;
+}
+
+
+
+
+#firststep {
+    color: rgb(239, 171, 239) ;
+}
+#firstimage {
+
+    margin-top: 50px;
+}
+
+#secondstep {
+    color: rgb(239, 171, 239) ;
+}
+
+#secondimage {
+
+    margin-top: 50px;
+
+}
+
+#secondimagept2 {
+
+margin-top: 50px;
+}
+
+
+#thirdstep {
+    color: rgb(239, 171, 239) ;
+}
+
+#thirdimage {
+
+    margin-top: 50px;
+}
+
+
+#fourthimage {
+     margin-top: 50px;
+}
+
+#fifthimage {
+
+    margin-top: 50px;
+}
